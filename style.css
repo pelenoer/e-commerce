@@ -1,0 +1,25 @@
+
+body {
+  font-family: Arial;
+  background-color: green;
+  text-align: center;
+}
+h1 {
+  color: blue;
+}
+.product {
+  background: white;
+  border: 1px solid green;
+  width: 83rem;
+  margin: 20px auto;
+  padding: 10px;
+}
+.price {
+  color: green;
+  font-weight: bold;
+}
+img{
+    height: 130px;
+    width: 20rem;
+    
+}
